@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Batman Movie Reviews</title>
+    
+    <topicref href="batman_franchise_overview.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman Franchise Overview</navtitle>
+        </topicmeta>
+    </topicref>
+    
+    <topicref href="batman_1989.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman (1989)</navtitle>
+        </topicmeta>
+        <topicref href="batman_1989_image.dita" format="dita"/>
+        <topicref href="batman_1989_director_writer.dita" format="dita"/>
+        <topicref href="batman_1989_cast.dita" format="dita"/>
+        <topicref href="batman_1989_synopsis.dita" format="dita"/>
+        <topicref href="batman_1989_review.dita" format="dita"/>
+        <topicref href="batman_1989_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_returns.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman Returns (1992)</navtitle>
+        </topicmeta>
+        <topicref href="batman_returns_image.dita" format="dita"/>
+        <topicref href="batman_returns_director_writer.dita" format="dita"/>
+        <topicref href="batman_returns_cast.dita" format="dita"/>
+        <topicref href="batman_returns_synopsis.dita" format="dita"/>
+        <topicref href="batman_returns_review.dita" format="dita"/>
+        <topicref href="batman_returns_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_mask_of_the_phantasm.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman: Mask of the Phantasm (1993)</navtitle>
+        </topicmeta>
+        <topicref href="batman_mask_of_the_phantasm_image.dita" format="dita"/>
+        <topicref href="batman_mask_of_the_phantasm_director_writer.dita" format="dita"/>
+        <topicref href="batman_mask_of_the_phantasm_cast.dita" format="dita"/>
+        <topicref href="batman_mask_of_the_phantasm_synopsis.dita" format="dita"/>
+        <topicref href="batman_mask_of_the_phantasm_review.dita" format="dita"/>
+        <topicref href="batman_mask_of_the_phantasm_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_forever.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman Forever (1995)</navtitle>
+        </topicmeta>
+        <topicref href="batman_forever_image.dita" format="dita"/>
+        <topicref href="batman_forever_director_writer.dita" format="dita"/>
+        <topicref href="batman_forever_cast.dita" format="dita"/>
+        <topicref href="batman_forever_synopsis.dita" format="dita"/>
+        <topicref href="batman_forever_review.dita" format="dita"/>
+        <topicref href="batman_forever_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_and_robin.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman &amp; Robin (1997)</navtitle>
+        </topicmeta>
+        <topicref href="batman_and_robin_image.dita" format="dita"/>
+        <topicref href="batman_and_robin_director_writer.dita" format="dita"/>
+        <topicref href="batman_and_robin_cast.dita" format="dita"/>
+        <topicref href="batman_and_robin_synopsis.dita" format="dita"/>
+        <topicref href="batman_and_robin_review.dita" format="dita"/>
+        <topicref href="batman_and_robin_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_begins.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman Begins (2005)</navtitle>
+        </topicmeta>
+        <topicref href="batman_begins_image.dita" format="dita"/>
+        <topicref href="batman_begins_director_writer.dita" format="dita"/>
+        <topicref href="batman_begins_cast.dita" format="dita"/>
+        <topicref href="batman_begins_synopsis.dita" format="dita"/>
+        <topicref href="batman_begins_review.dita" format="dita"/>
+        <topicref href="batman_begins_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="the_dark_knight.dita" format="dita">
+        <topicmeta>
+            <navtitle>The Dark Knight (2008)</navtitle>
+        </topicmeta>
+        <topicref href="the_dark_knight_image.dita" format="dita"/>
+        <topicref href="the_dark_knight_director_writer.dita" format="dita"/>
+        <topicref href="the_dark_knight_cast.dita" format="dita"/>
+        <topicref href="the_dark_knight_synopsis.dita" format="dita"/>
+        <topicref href="the_dark_knight_review.dita" format="dita"/>
+        <topicref href="the_dark_knight_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_under_the_red_hood.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman: Under the Red Hood (2010)</navtitle>
+        </topicmeta>
+        <topicref href="batman_under_the_red_hood_image.dita" format="dita"/>
+        <topicref href="batman_under_the_red_hood_director_writer.dita" format="dita"/>
+        <topicref href="batman_under_the_red_hood_cast.dita" format="dita"/>
+        <topicref href="batman_under_the_red_hood_synopsis.dita" format="dita"/>
+        <topicref href="batman_under_the_red_hood_review.dita" format="dita"/>
+        <topicref href="batman_under_the_red_hood_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="the_dark_knight_rises.dita" format="dita">
+        <topicmeta>
+            <navtitle>The Dark Knight Rises (2012)</navtitle>
+        </topicmeta>
+        <topicref href="the_dark_knight_rises_image.dita" format="dita"/>
+        <topicref href="the_dark_knight_rises_director_writer.dita" format="dita"/>
+        <topicref href="the_dark_knight_rises_cast.dita" format="dita"/>
+        <topicref href="the_dark_knight_rises_synopsis.dita" format="dita"/>
+        <topicref href="the_dark_knight_rises_review.dita" format="dita"/>
+        <topicref href="the_dark_knight_rises_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="batman_v_superman.dita" format="dita">
+        <topicmeta>
+            <navtitle>Batman v Superman: Dawn of Justice (2016)</navtitle>
+        </topicmeta>
+        <topicref href="batman_v_superman_image.dita" format="dita"/>
+        <topicref href="batman_v_superman_director_writer.dita" format="dita"/>
+        <topicref href="batman_v_superman_cast.dita" format="dita"/>
+        <topicref href="batman_v_superman_synopsis.dita" format="dita"/>
+        <topicref href="batman_v_superman_review.dita" format="dita"/>
+        <topicref href="batman_v_superman_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="the_lego_batman_movie.dita" format="dita">
+        <topicmeta>
+            <navtitle>The Lego Batman Movie (2017)</navtitle>
+        </topicmeta>
+        <topicref href="the_lego_batman_movie_image.dita" format="dita"/>
+        <topicref href="the_lego_batman_movie_director_writer.dita" format="dita"/>
+        <topicref href="the_lego_batman_movie_cast.dita" format="dita"/>
+        <topicref href="the_lego_batman_movie_synopsis.dita" format="dita"/>
+        <topicref href="the_lego_batman_movie_review.dita" format="dita"/>
+        <topicref href="the_lego_batman_movie_rating.dita" format="dita"/>
+    </topicref>
+    
+    <topicref href="the_batman.dita" format="dita">
+        <topicmeta>
+            <navtitle>The Batman (2022)</navtitle>
+        </topicmeta>
+        <topicref href="the_batman_image.dita" format="dita"/>
+        <topicref href="the_batman_director_writer.dita" format="dita"/>
+        <topicref href="the_batman_cast.dita" format="dita"/>
+        <topicref href="the_batman_synopsis.dita" format="dita"/>
+        <topicref href="the_batman_review.dita" format="dita"/>
+        <topicref href="the_batman_rating.dita" format="dita"/>
+    </topicref>
+</map>
